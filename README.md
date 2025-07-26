@@ -51,14 +51,14 @@ To run the interactive app:
 
 ## 📂 Project Structure
 
-'''
+'''bash
 ├── prices.ipynb         # Jupyter notebook with full ML pipeline
 ├── app.py               # Streamlit application
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
 '''
 
-##📌 Future Improvements
+## 📌 Future Improvements
 I will deploy the model and provide it here 
 
 
